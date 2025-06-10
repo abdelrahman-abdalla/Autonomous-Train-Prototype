@@ -8,22 +8,21 @@ A scaled-down autonomous train track designed for Norfolk Southern as part of Pe
 - **Role:** Lead track designer and layout engineer  
 
 ## Features
-- **Optimized Geometry:** Modeled curved and straight rail segments in SolidWorks for smooth transitions  
+- **Optimized Geometry:** Modeled curved and straight rail segments in SolidWorks (files pending)  
 - **Modular Sections:** Designed interlocking track pieces for easy assembly and reconfiguration  
 - **Support Structure:** Integrated baseplate and risers to maintain track level and alignment  
 - **Material Selection:** Chose PLA 3D-printed rails with embedded steel strips for conductivity and durability  
 
 ## Tools & Technologies
-- SolidWorks (Track segment modeling & assemblies)  
+- SolidWorks (models pending)  
 - 3D printing (PLA rails and support components)  
-- MATLAB (Scripts for calculating curve radii and transition lengths, optional)  
-
+- MATLAB (scripts pending)  
 
 ## Images
-![Single Track Segment](/Images/track_segment_1.png)  
-![Close-up of Rail Connection](/Images/track_segment_2.png)  
-![Assembled Track Layout – Side View](/Images/assembled_side_view.png)  
-![Assembled Track Layout – Top View](/Images/assembled_top_view.png)  
+![Track Segment – Full View](/Images/track_full_view.png)  
+![Track Segment – Close-up](/Images/track_closeup.png)  
+![Assembled Track – Side View](/Images/track_side_view.png)  
+![Assembled Track – Top View](/Images/track_top_view.png)  
 
 
 ## Author
