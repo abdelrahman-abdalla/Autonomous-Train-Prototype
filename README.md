@@ -19,11 +19,10 @@ A scaled-down autonomous train track designed for Norfolk Southern as part of Pe
 - MATLAB (scripts pending)  
 
 ## Images
-![Track Segment – Full View](/Images/track_full_view.png)  
-![Track Segment – Close-up](/Images/track_closeup.png)  
-![Assembled Track – Side View](/Images/track_side_view.png)  
-![Assembled Track – Top View](/Images/track_top_view.png)  
-
+![Detailed Track – Full View](/Images/detailed_track_full.png)  
+![Detailed Track – Close-up](/Images/detailed_track_closeup.png)  
+![Basic Track – Full View](/Images/basic_track_full.png)  
+![Basic Track – Close-up](/Images/basic_track_closeup.png)  
 
 ## Author
 Abdelrahman Abdalla – [LinkedIn](https://www.linkedin.com/in/abdelrahman-abdalla-)  
